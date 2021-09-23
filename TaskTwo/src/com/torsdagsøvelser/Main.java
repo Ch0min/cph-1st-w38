@@ -43,13 +43,14 @@ public class Main {
         System.out.println(str.toUpperCase());
         return str;
     }
+
     // 2.d
     static String goodNight() {
-    String str = "good night!";
-    // I'll use a substring to show my beginning index and ending index, so it will only print out my first letter "g".
+        String str = "good night!";
+        // I'll use a substring to show my beginning index and ending index, so it will only print out my first letter "g".
         // I'll add another substring to remove the lowercase character 'g', and by doing so it will make space for my uppercase 'G'.
-    String result = str.substring(0, 1).toUpperCase() + str.substring(1);
-    System.out.println(result);
+        String result = str.substring(0, 1).toUpperCase() + str.substring(1);
+        System.out.println(result);
         return str;
     }
 }

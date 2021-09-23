@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="742a4909-1976-4100-ade7-8d9b856d99ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../TaskTwo/TaskTwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskSix/out/production/TaskSix/com/torsdagsøvelser/Oops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskSix/out/production/TaskSix/com/torsdagsøvelser/Oops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskSix/src/com/torsdagsøvelser/Oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskSix/src/com/torsdagsøvelser/Oops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskThree/out/production/TaskThree/com/torsdagsøvelser/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskThree/out/production/TaskThree/com/torsdagsøvelser/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskThree/src/com/torsdagsøvelser/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskThree/src/com/torsdagsøvelser/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskTwo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskTwo/out/production/TaskTwo/com/torsdagsøvelser/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskTwo/out/production/TaskTwo/com/torsdagsøvelser/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskTwo/src/com/torsdagsøvelser/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskTwo/src/com/torsdagsøvelser/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,5 +118,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

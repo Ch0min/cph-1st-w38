@@ -5,7 +5,7 @@ public class Teacher {
     public int age;
     public String isFemale;
 
-        // Teacher constructor
+    // Teacher constructor
     public Teacher(String tmpName, int tmpAge, String tmpIsFemale) {
         this.name = tmpName;
         this.age = tmpAge;
@@ -14,6 +14,6 @@ public class Teacher {
 
     // Method for printing teachers name
     static void teacherName() {
-        System.out.println("Cecilie");
+        System.out.println("Teachers name is " + "Cecilie");
     }
 }

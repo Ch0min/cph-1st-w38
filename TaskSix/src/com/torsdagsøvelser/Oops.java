@@ -9,6 +9,7 @@ public class Oops {
             System.out.println(smaller + " is the smallest!");
         }
     }
+
     public static int minimum(int a, int b) {
         int smaller;
         if (a < b) {
