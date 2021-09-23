@@ -23,8 +23,10 @@ public class Main {
         // 2.a
         // Using an 'if statement'. setting happy equal to true
         if (happy == true) {
+            return true;
+        } else {
+            return false;
         }
-        return true;
     }
 
     // 2.b
